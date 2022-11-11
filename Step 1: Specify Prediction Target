@@ -1,0 +1,2 @@
+home_data.columns
+y = home_data.SalePrice
