@@ -1,0 +1,5 @@
+from sklearn.tree import DecisionTreeRegressor
+
+iowa_model = DecisionTreeRegressor(random_state = 1)
+
+iowa_model.fit(X,y)
